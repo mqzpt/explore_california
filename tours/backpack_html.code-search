@@ -1,0 +1,19 @@
+# Query: backpack.html
+# ContextLines: 1
+
+3 results - 3 files
+
+tours.html:
+  78                <h2>Backpack Cal</h2>
+  79:               <p><img src="assets/images/back_bug.gif" alt="Backpack Cal" width="195" height="120" />Explore California our favorite way...by foot! Get outdoors and into the millions of acres of forests, desert, and spectacular scenery that California is famous for. We have a wide range of backpacking tour options, from single day-trips to week long guided excursions. Find a comfortable pair of shoes and come hiking with us! <a href="tours/tour_detail_backpack_cal.html" title="Backpack Cal" class="more">learn more!</a></p>
+  80              </div>
+
+tours/tour_detail_backback_cal.html:
+  59            <div id="subLinks">
+  60:             <p><a href="../tours.html" title="Browse tours">All Tours</a> &raquo; <a href="tour_detail_backpack_cal.html" title="Browse tours">  Backpack Cal</a></p>
+  61            </div>
+
+tours/tour_detail_bigsur.html:
+  59            <div id="subLinks">
+  60:             <p><a href="../tours.html" title="Browse tours">All Tours</a> &raquo; <a href="tour_detail_backpack_cal.html" title="Browse tours">  Backpack Cal</a> &raquo; <a href="tour_detail_bigsur.html" title="Browse tours">  Big Sur Retreat</a></p>
+  61            </div>
